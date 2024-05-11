@@ -1,0 +1,33 @@
+.cardxd {
+  width: 30%;
+  background-color: #c2ecf1;
+  border-radius: 12px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cardxd:hover,
+.cardxd:focus {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.cardxd a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.containerxd {
+  display: flex;
+  justify-content: space-between;
+}
+
+.arrow {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 24px;
+}

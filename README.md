@@ -1,66 +1,43 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Application de Finance avec Laravel
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Cette application de finance est développée en utilisant Laravel, un framework PHP. Elle offre une plateforme pour la gestion des finances personnelles (la gestion de comptes bancaires, les transactions, la création de cartes bancaires virtuelles, l'épargne ...).
 
-## About Laravel
+## Quelques captures de l'interface de l'application 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## * Accueil
+![bankAcceuil](https://github.com/divaarica/waveGUI_flutter/assets/151394040/bf3a4a53-b9b8-402c-8ee3-127ff9d5be2e)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![bankAcceuil2](https://github.com/divaarica/waveGUI_flutter/assets/151394040/8c2f40d9-0347-4941-8d5c-8be55a81c216)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![bankConnexion](https://github.com/divaarica/waveGUI_flutter/assets/151394040/1b70d5c7-2fde-412e-9127-1673a8c1015b)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## * Admin
+![bankAdminAcceuil](https://github.com/divaarica/waveGUI_flutter/assets/151394040/8a96cc3f-628e-4d17-8314-6b21fb1c479a)
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+![bankAdminAcceuil2](https://github.com/divaarica/waveGUI_flutter/assets/151394040/89708171-36fc-4ee2-ba5e-a5c76d77565e)
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+![bankAdminDR](https://github.com/divaarica/waveGUI_flutter/assets/151394040/f3241817-9eda-43fa-aa90-b60a605eaf4a)
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## * Client
+![bankUserAcceuil](https://github.com/divaarica/waveGUI_flutter/assets/151394040/cdcd0689-45c7-4b98-9b55-a8b28ff7ff43)
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![bankUserCourant](https://github.com/divaarica/waveGUI_flutter/assets/151394040/419bb3c5-3e5a-4866-a9bf-0cc721aa4893)
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![bankUserEpargne](https://github.com/divaarica/waveGUI_flutter/assets/151394040/d259699f-0af9-4cbb-97cd-2ac4c4d7b2c5)
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![bankUserChoixTranfert](https://github.com/divaarica/waveGUI_flutter/assets/151394040/4e59f34f-c931-44bb-92ef-b2830d28b613)
+
+
+![bankCreerCarte](https://github.com/divaarica/waveGUI_flutter/assets/151394040/5052b42a-151c-4083-94d8-7567d0f45a11)
+
+
+![bankMesCartes](https://github.com/divaarica/waveGUI_flutter/assets/151394040/2c3fe88d-81f0-43c2-acac-d3a828bbcfb0)
